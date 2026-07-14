@@ -127,46 +127,10 @@ Recommendations
 > Upload your screenshots inside the **Images** folder and replace the filenames below.
 
 ## Dashboard
+<img width="896" height="500" alt="Screenshot 2026-07-14 183229" src="https://github.com/user-attachments/assets/3228c404-ec3a-4dad-ba9c-cd98aa0c5ad0" />
 
-![Dashboard](Images/dashboard.png)
+<img width="893" height="470" alt="Screenshot 2026-07-14 183238" src="https://github.com/user-attachments/assets/b0fd3e0b-4e00-486d-bb2e-b548a6076396" />
 
----
-
-## Histogram
-
-![Histogram](Images/histogram.png)
-
----
-
-## Pie Chart
-
-![Pie Chart](Images/piechart.png)
-
----
-
-## Box Plot
-
-![Box Plot](Images/boxplot.png)
-
----
-
-## Donut Chart
-
-![Donut Chart](Images/donutchart.png)
-
----
-
-## Line Chart
-
-![Line Chart](Images/linechart.png)
-
----
-
-## Scatter Plot
-
-![Scatter Plot](Images/scatterplot.png)
-
----
 
 # 📌 Key Insights
 
