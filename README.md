@@ -122,11 +122,8 @@ Recommendations
 
 ---
 
-# 🖼 Dashboard Preview
+# 🖼 Dashboard Preview 
 
-> Upload your screenshots inside the **Images** folder and replace the filenames below.
-
-## Dashboard
 <img width="896" height="500" alt="Screenshot 2026-07-14 183229" src="https://github.com/user-attachments/assets/3228c404-ec3a-4dad-ba9c-cd98aa0c5ad0" />
 
 <img width="893" height="470" alt="Screenshot 2026-07-14 183238" src="https://github.com/user-attachments/assets/b0fd3e0b-4e00-486d-bb2e-b548a6076396" />
